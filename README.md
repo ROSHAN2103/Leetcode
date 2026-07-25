@@ -257,6 +257,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ROSHAN2103/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ROSHAN2103/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -313,6 +314,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -331,6 +333,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0098-validate-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ROSHAN2103/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -357,6 +360,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0124-binary-tree-maximum-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -556,6 +560,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ROSHAN2103/leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ROSHAN2103/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ROSHAN2103/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -566,4 +571,8 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ROSHAN2103/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ROSHAN2103/leetcode/tree/master/0901-online-stock-span) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
