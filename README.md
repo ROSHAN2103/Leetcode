@@ -58,6 +58,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0912-sort-an-array](https://github.com/ROSHAN2103/leetcode/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ROSHAN2103/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ROSHAN2103/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2350-find-closest-number-to-zero](https://github.com/ROSHAN2103/leetcode/tree/master/2350-find-closest-number-to-zero) |
@@ -89,6 +90,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0560-subarray-sum-equals-k](https://github.com/ROSHAN2103/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ROSHAN2103/leetcode/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2965-find-missing-and-repeated-values](https://github.com/ROSHAN2103/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
@@ -329,6 +331,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -342,6 +345,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -374,6 +378,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +406,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/ROSHAN2103/leetcode/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2596-check-knight-tour-configuration](https://github.com/ROSHAN2103/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
