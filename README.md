@@ -173,6 +173,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0151-reverse-words-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ROSHAN2103/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ROSHAN2103/leetcode/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ROSHAN2103/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/ROSHAN2103/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ROSHAN2103/leetcode/tree/master/0567-permutation-in-string) |
@@ -322,6 +323,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -370,6 +372,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -398,6 +401,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ROSHAN2103/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ROSHAN2103/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -417,6 +421,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ROSHAN2103/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/ROSHAN2103/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ROSHAN2103/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ROSHAN2103/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ROSHAN2103/leetcode/tree/master/0994-rotting-oranges) |
@@ -571,6 +576,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0173-binary-search-tree-iterator](https://github.com/ROSHAN2103/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ROSHAN2103/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ROSHAN2103/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/ROSHAN2103/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ROSHAN2103/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ROSHAN2103/leetcode/tree/master/0901-online-stock-span) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ROSHAN2103/leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
