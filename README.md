@@ -28,6 +28,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0051-n-queens](https://github.com/ROSHAN2103/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ROSHAN2103/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ROSHAN2103/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ROSHAN2103/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ROSHAN2103/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ROSHAN2103/leetcode/tree/master/0066-plus-one) |
@@ -217,6 +218,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | [0042-trapping-rain-water](https://github.com/ROSHAN2103/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ROSHAN2103/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ROSHAN2103/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ROSHAN2103/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ROSHAN2103/leetcode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/ROSHAN2103/leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ROSHAN2103/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -467,6 +469,7 @@ This repository contains all my solutions to various problems on LeetCode. I hav
 | ------- |
 | [0011-container-with-most-water](https://github.com/ROSHAN2103/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ROSHAN2103/leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/ROSHAN2103/leetcode/tree/master/0055-jump-game) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ROSHAN2103/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
